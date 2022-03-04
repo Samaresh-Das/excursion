@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+.header h1{
+    color: white;
+    font-size: 50px;
+}
+
+.header p a{
+    color: aquamarine;
+    text-decoration: underline !important;
+}
+
+.guide h1{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    
+}
+
+.guide h4{
+    font-size: 21px;
+    color: gray;
+}
+
+.footer h1{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.footer p a{
+    color: aquamarine;
+    text-decoration: underline !important;
+}
+
+.footer h4{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
